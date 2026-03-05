@@ -30,7 +30,7 @@
   <repository>
    <id>github</id>
    <name>GitHub Packages</name>
-   <url>https://github.com/Ajinkm/maven-repo</url>
+   <url>hhttps://github.com/abhiramiharidas/maven-build1.git</url>
   </repository>
  </distributionManagement>
 
